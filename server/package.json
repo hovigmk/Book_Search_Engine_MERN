@@ -1,7 +1,7 @@
 {
-  "name": "server",
+  "name": "Book_Search",
   "version": "1.0.0",
-  "description": "",
+  "description": "Book_SEarch_Engine_MERN-Stack",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
